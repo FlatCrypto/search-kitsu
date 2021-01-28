@@ -1,0 +1,27 @@
+{
+  "name": "search-kitsu",
+  "version": "1.0.3",
+  "description": "Search anime/manga, kitsu",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FlatCrypto/search-kitsu/tree/main"
+  },
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "kitsu",
+    "anime",
+    "manga",
+    "search",
+    "kitsu-api"
+  ],
+  "author": "FlatCrypto",
+  "license": "MIT"
+}
