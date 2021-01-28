@@ -1,5 +1,3 @@
-const request = require('request-promise');
-
 class anime {
   constructor(id, attr, query) {
     this.id = id;
