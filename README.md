@@ -39,7 +39,7 @@ API.searchAnime('My Hero Academia', { seasonYear: 2018 }).then(data => {
 
 ## Returns
 
-```json
+```
 createdAt: string;
 updatedAt: string;
 slug: string;
